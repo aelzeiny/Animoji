@@ -1,0 +1,4 @@
+pyrender
+numpy
+matplotlib
+pygltflib
