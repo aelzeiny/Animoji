@@ -1,4 +1,4 @@
-pyrender
 numpy
 matplotlib
 pygltflib
+tqdm
